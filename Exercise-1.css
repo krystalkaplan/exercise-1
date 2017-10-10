@@ -1,0 +1,16 @@
+body{
+  background-image: url("fern-grey.jpg");
+}
+
+h1{
+font-family: 'Quicksand', sans-serif;
+font-size: 45px;
+color: grey;
+background-color: pink;
+}
+
+p{
+  font-family: 'Quicksand', sans-serif;
+  color:grey;
+  background-color: pink
+}
